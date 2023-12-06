@@ -1,2 +1,2 @@
-# IITH-Sports
-NSO website IITH
+# MGMU-Sports
+
